@@ -12,6 +12,7 @@
   "description": "Official community version of react-viro",
   "scripts": {
     "start": "echo 'I dont think you meant to run npm start here.'",
+    "ios": "react-native run-ios",
     "test": "jest",
     "tsc": "tsc",
     "build": "yarn tsc && yarn copy-files",
